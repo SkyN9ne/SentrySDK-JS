@@ -50,7 +50,7 @@
   "devDependencies": {
     "@sentry-internal/integration-shims": "8.13.0",
     "fake-indexeddb": "^4.0.1",
-    "webpack": "^4.47.0"
+    "webpack": "^5.94.0"
   },
   "scripts": {
     "build": "run-p build:transpile build:bundle build:types",
